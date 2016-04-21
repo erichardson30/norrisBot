@@ -1,0 +1,15 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "Front desk slackbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Richardson",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^0.5.1",
+    "sqlite3": "^3.1.3"
+  }
+}
