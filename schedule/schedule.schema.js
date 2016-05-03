@@ -7,6 +7,7 @@ var ScheduleSchema = new Schema({
     email : String,
     userId : String,
     date : Date,
+    channel: String,
     expecting : String
 });
 

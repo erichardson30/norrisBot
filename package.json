@@ -15,6 +15,7 @@
     "moment": "^2.13.0",
     "mongodb": "^2.1.18",
     "mongoose": "^4.4.14",
+    "node-slack-upload": "^1.1.0",
     "slackbots": "^0.5.1",
     "socket.io": "^1.4.5",
     "sqlite3": "^3.1.3"
